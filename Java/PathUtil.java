@@ -1,4 +1,4 @@
-package at.gv.brz.bm.render_service_sdk.util;
+package com.github.lacky95.path_util;
 
 
 /**
