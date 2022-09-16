@@ -1,4 +1,4 @@
-class PathUtil{
+export class PathUtil{
     contains(str: string, anotherStr: string){
         return str.indexOf(anotherStr) !== -1
     }
